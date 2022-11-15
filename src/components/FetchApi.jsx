@@ -59,7 +59,7 @@ const FetchApi = () => {
   }, [num]);
 
   return (
-    <div>
+    <div style={{ border: "3px solid blue" }}>
       <h1>User Data</h1>
       <h3>Name: {state.name}</h3>
       <h3>Website: {state.website}</h3>
