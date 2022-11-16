@@ -5,6 +5,7 @@ import SearchApi from "./components/SearchApi";
 function App() {
   return (
     <div>
+      <div>Changes made</div>
       <FetchApi />
       <br />
       <SearchApi />
