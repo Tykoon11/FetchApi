@@ -8,6 +8,7 @@ function App() {
       <FetchApi />
       <br />
       <SearchApi />
+      <div>Noble change</div>
     </div>
   );
 }
