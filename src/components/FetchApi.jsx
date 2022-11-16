@@ -45,7 +45,7 @@ const FetchApi = () => {
       setActiveNext(true);
     }
   };
-
+//hi
   useEffect(() => {
     // async await
     axios
